@@ -11,11 +11,14 @@ Implement Front-End - **6 hour mark** (3 Hours) by ~6PM
 
 Dinner
 
-Implement Back-End - **10-11 hour mark** (4-5 hours) 
+Implement Back-End - **12 hour mark** (5ish hours) 
 
 Sleep
 
 **Sunday Morning**
-Make and Rehearse Presentation - (2ish hours)
+
+Finalize things - **20 hour mark** (2ish hours) 
+
+Make and Finalize Presentation - **22-23 hour mark** 
 
 Submit 
