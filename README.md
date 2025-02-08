@@ -7,11 +7,11 @@ Front-End Figma Mock Up - **3 hour mark** by ~2:30PM
 
 Room for WiCS Activity
 
-Implement Front-End - **6 hour mark** (3 Hours) by ~6PM
+Implement Front-End - **9ish hour mark**  by ~8PM
 
 Dinner
 
-Implement Back-End - **12 hour mark** (5ish hours) 
+Implement Back-End - **12-13 hour mark** (5ish hours) 
 
 Sleep
 
